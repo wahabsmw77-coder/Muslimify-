@@ -1,0 +1,6 @@
+{
+  "name": "Muslimify",
+  "description": "Quran & Hadith in Every Language of the World. A premium, high-performance platform featuring real verified verses, audio qaris, Sihah Sitta Hadith collections, local Islamic books, and professional Zakat & Ushr Treasury calculators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
